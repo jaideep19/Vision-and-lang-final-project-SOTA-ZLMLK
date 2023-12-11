@@ -45,7 +45,7 @@ python3 train_nus_first_stage.py \
 
 ```
 
-The checkpoint of the first training stage is [here](https://drive.google.com/file/d/158ntqLvepVklwmY1PvlqIhguv7wN6SZI/view?usp=sharing).
+The checkpoint of the training stage is [here](https://drive.google.com/file/d/158ntqLvepVklwmY1PvlqIhguv7wN6SZI/view?usp=sharing).
 
 ## Testing MKT on NUS-WIDE
 
