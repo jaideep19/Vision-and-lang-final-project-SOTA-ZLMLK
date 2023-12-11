@@ -1,0 +1,133 @@
+2023-12-10 21:26:56,874 - engine_nus_first_stage.py[line:12] - INFO: TRAINING MODE
+2023-12-10 21:43:25,307 - engine_nus_first_stage.py[line:60] - INFO: ------------------------------------------------------------------
+2023-12-10 21:43:25,307 - engine_nus_first_stage.py[line:61] - INFO: FINETUNING Epoch: 0/20 	RankLoss: 0.951544	DistLoss: 0.035611	LearningRate 0.0004998021369212505
+2023-12-10 21:43:25,307 - engine_nus_first_stage.py[line:62] - INFO: ------------------------------------------------------------------
+2023-12-10 21:43:25,755 - engine_nus_first_stage.py[line:70] - INFO: =======================EVALUATION MODE=======================
+2023-12-10 21:49:44,888 - engine_nus_first_stage.py[line:105] - INFO: completed calculating predictions over all images
+2023-12-10 21:49:45,020 - engine_nus_first_stage.py[line:111] - INFO: ZSL AP: 0.3700
+2023-12-10 21:49:45,021 - engine_nus_first_stage.py[line:112] - INFO: k=3: 0.3063,0.2490,0.3981
+2023-12-10 21:49:45,021 - engine_nus_first_stage.py[line:113] - INFO: k=5: 0.2809,0.1931,0.5147
+2023-12-10 21:49:46,480 - engine_nus_first_stage.py[line:120] - INFO: GZSL AP:0.1716
+2023-12-10 21:49:46,486 - engine_nus_first_stage.py[line:121] - INFO: g_k=3:0.2080,0.3400,0.1499
+2023-12-10 21:49:46,487 - engine_nus_first_stage.py[line:122] - INFO: g_k=5:0.2403,0.2836,0.2084
+2023-12-10 21:49:46,608 - engine_nus_first_stage.py[line:12] - INFO: TRAINING MODE
+2023-12-10 22:04:15,362 - engine_nus_first_stage.py[line:60] - INFO: ------------------------------------------------------------------
+2023-12-10 22:04:15,362 - engine_nus_first_stage.py[line:61] - INFO: FINETUNING Epoch: 1/20 	RankLoss: 0.934092	DistLoss: 0.075773	LearningRate 0.0009998021369212505
+2023-12-10 22:04:15,362 - engine_nus_first_stage.py[line:62] - INFO: ------------------------------------------------------------------
+2023-12-10 22:04:15,817 - engine_nus_first_stage.py[line:70] - INFO: =======================EVALUATION MODE=======================
+2023-12-10 22:10:28,354 - engine_nus_first_stage.py[line:105] - INFO: completed calculating predictions over all images
+2023-12-10 22:10:28,459 - engine_nus_first_stage.py[line:111] - INFO: ZSL AP: 0.3326
+2023-12-10 22:10:28,459 - engine_nus_first_stage.py[line:112] - INFO: k=3: 0.2941,0.2390,0.3822
+2023-12-10 22:10:28,459 - engine_nus_first_stage.py[line:113] - INFO: k=5: 0.2666,0.1833,0.4886
+2023-12-10 22:10:29,818 - engine_nus_first_stage.py[line:120] - INFO: GZSL AP:0.1648
+2023-12-10 22:10:29,824 - engine_nus_first_stage.py[line:121] - INFO: g_k=3:0.2006,0.3279,0.1445
+2023-12-10 22:10:29,825 - engine_nus_first_stage.py[line:122] - INFO: g_k=5:0.2307,0.2724,0.2001
+2023-12-10 22:10:29,965 - engine_nus_first_stage.py[line:12] - INFO: TRAINING MODE
+2023-12-10 22:24:59,277 - engine_nus_first_stage.py[line:60] - INFO: ------------------------------------------------------------------
+2023-12-10 22:24:59,277 - engine_nus_first_stage.py[line:61] - INFO: FINETUNING Epoch: 2/20 	RankLoss: 0.932657	DistLoss: 0.089194	LearningRate 0.0009924174621601292
+2023-12-10 22:24:59,277 - engine_nus_first_stage.py[line:62] - INFO: ------------------------------------------------------------------
+2023-12-10 22:24:59,721 - engine_nus_first_stage.py[line:70] - INFO: =======================EVALUATION MODE=======================
+2023-12-10 22:31:11,733 - engine_nus_first_stage.py[line:105] - INFO: completed calculating predictions over all images
+2023-12-10 22:31:11,924 - engine_nus_first_stage.py[line:111] - INFO: ZSL AP: 0.3314
+2023-12-10 22:31:11,925 - engine_nus_first_stage.py[line:112] - INFO: k=3: 0.3056,0.2484,0.3971
+2023-12-10 22:31:11,925 - engine_nus_first_stage.py[line:113] - INFO: k=5: 0.2839,0.1952,0.5203
+2023-12-10 22:31:13,164 - engine_nus_first_stage.py[line:120] - INFO: GZSL AP:0.1642
+2023-12-10 22:31:13,170 - engine_nus_first_stage.py[line:121] - INFO: g_k=3:0.2042,0.3338,0.1471
+2023-12-10 22:31:13,170 - engine_nus_first_stage.py[line:122] - INFO: g_k=5:0.2343,0.2766,0.2033
+2023-12-10 22:31:13,300 - engine_nus_first_stage.py[line:12] - INFO: TRAINING MODE
+2023-12-10 22:45:42,501 - engine_nus_first_stage.py[line:60] - INFO: ------------------------------------------------------------------
+2023-12-10 22:45:42,501 - engine_nus_first_stage.py[line:61] - INFO: FINETUNING Epoch: 3/20 	RankLoss: 0.930452	DistLoss: 0.088294	LearningRate 0.0009698882623461479
+2023-12-10 22:45:42,501 - engine_nus_first_stage.py[line:62] - INFO: ------------------------------------------------------------------
+2023-12-10 22:45:42,949 - engine_nus_first_stage.py[line:70] - INFO: =======================EVALUATION MODE=======================
+2023-12-10 22:51:54,052 - engine_nus_first_stage.py[line:105] - INFO: completed calculating predictions over all images
+2023-12-10 22:51:54,159 - engine_nus_first_stage.py[line:111] - INFO: ZSL AP: 0.3390
+2023-12-10 22:51:54,159 - engine_nus_first_stage.py[line:112] - INFO: k=3: 0.2977,0.2420,0.3868
+2023-12-10 22:51:54,160 - engine_nus_first_stage.py[line:113] - INFO: k=5: 0.2752,0.1892,0.5042
+2023-12-10 22:51:55,485 - engine_nus_first_stage.py[line:120] - INFO: GZSL AP:0.1727
+2023-12-10 22:51:55,492 - engine_nus_first_stage.py[line:121] - INFO: g_k=3:0.2084,0.3405,0.1501
+2023-12-10 22:51:55,492 - engine_nus_first_stage.py[line:122] - INFO: g_k=5:0.2408,0.2842,0.2088
+2023-12-10 22:51:55,617 - engine_nus_first_stage.py[line:12] - INFO: TRAINING MODE
+2023-12-10 23:06:24,690 - engine_nus_first_stage.py[line:60] - INFO: ------------------------------------------------------------------
+2023-12-10 23:06:24,690 - engine_nus_first_stage.py[line:61] - INFO: FINETUNING Epoch: 4/20 	RankLoss: 0.915852	DistLoss: 0.120944	LearningRate 0.0009330969377027001
+2023-12-10 23:06:24,690 - engine_nus_first_stage.py[line:62] - INFO: ------------------------------------------------------------------
+2023-12-10 23:06:25,159 - engine_nus_first_stage.py[line:70] - INFO: =======================EVALUATION MODE=======================
+2023-12-10 23:12:36,403 - engine_nus_first_stage.py[line:105] - INFO: completed calculating predictions over all images
+2023-12-10 23:12:36,509 - engine_nus_first_stage.py[line:111] - INFO: ZSL AP: 0.3946
+2023-12-10 23:12:36,509 - engine_nus_first_stage.py[line:112] - INFO: k=3: 0.3102,0.2521,0.4031
+2023-12-10 23:12:36,509 - engine_nus_first_stage.py[line:113] - INFO: k=5: 0.2829,0.1945,0.5184
+2023-12-10 23:12:37,755 - engine_nus_first_stage.py[line:120] - INFO: GZSL AP:0.1849
+2023-12-10 23:12:37,761 - engine_nus_first_stage.py[line:121] - INFO: g_k=3:0.2184,0.3569,0.1573
+2023-12-10 23:12:37,761 - engine_nus_first_stage.py[line:122] - INFO: g_k=5:0.2527,0.2983,0.2192
+2023-12-10 23:12:37,889 - engine_nus_first_stage.py[line:12] - INFO: TRAINING MODE
+2023-12-10 23:27:06,552 - engine_nus_first_stage.py[line:60] - INFO: ------------------------------------------------------------------
+2023-12-10 23:27:06,552 - engine_nus_first_stage.py[line:61] - INFO: FINETUNING Epoch: 5/20 	RankLoss: 0.900170	DistLoss: 0.104878	LearningRate 0.0008831613740117686
+2023-12-10 23:27:06,552 - engine_nus_first_stage.py[line:62] - INFO: ------------------------------------------------------------------
+2023-12-10 23:27:07,014 - engine_nus_first_stage.py[line:70] - INFO: =======================EVALUATION MODE=======================
+2023-12-10 23:33:18,022 - engine_nus_first_stage.py[line:105] - INFO: completed calculating predictions over all images
+2023-12-10 23:33:18,124 - engine_nus_first_stage.py[line:111] - INFO: ZSL AP: 0.3937
+2023-12-10 23:33:18,125 - engine_nus_first_stage.py[line:112] - INFO: k=3: 0.2956,0.2402,0.3841
+2023-12-10 23:33:18,125 - engine_nus_first_stage.py[line:113] - INFO: k=5: 0.2724,0.1873,0.4991
+2023-12-10 23:33:19,326 - engine_nus_first_stage.py[line:120] - INFO: GZSL AP:0.1891
+2023-12-10 23:33:19,332 - engine_nus_first_stage.py[line:121] - INFO: g_k=3:0.2184,0.3569,0.1573
+2023-12-10 23:33:19,332 - engine_nus_first_stage.py[line:122] - INFO: g_k=5:0.2503,0.2955,0.2171
+2023-12-10 23:33:19,462 - engine_nus_first_stage.py[line:12] - INFO: TRAINING MODE
+2023-12-10 23:47:48,924 - engine_nus_first_stage.py[line:60] - INFO: ------------------------------------------------------------------
+2023-12-10 23:47:48,924 - engine_nus_first_stage.py[line:61] - INFO: FINETUNING Epoch: 6/20 	RankLoss: 0.897814	DistLoss: 0.098838	LearningRate 0.000821598838107488
+2023-12-10 23:47:48,924 - engine_nus_first_stage.py[line:62] - INFO: ------------------------------------------------------------------
+2023-12-10 23:47:49,377 - engine_nus_first_stage.py[line:70] - INFO: =======================EVALUATION MODE=======================
+2023-12-10 23:54:00,736 - engine_nus_first_stage.py[line:105] - INFO: completed calculating predictions over all images
+2023-12-10 23:54:00,842 - engine_nus_first_stage.py[line:111] - INFO: ZSL AP: 0.4049
+2023-12-10 23:54:00,842 - engine_nus_first_stage.py[line:112] - INFO: k=3: 0.3216,0.2614,0.4179
+2023-12-10 23:54:00,842 - engine_nus_first_stage.py[line:113] - INFO: k=5: 0.2973,0.2044,0.5447
+2023-12-10 23:54:02,133 - engine_nus_first_stage.py[line:120] - INFO: GZSL AP:0.1948
+2023-12-10 23:54:02,139 - engine_nus_first_stage.py[line:121] - INFO: g_k=3:0.2230,0.3645,0.1607
+2023-12-10 23:54:02,140 - engine_nus_first_stage.py[line:122] - INFO: g_k=5:0.2562,0.3025,0.2223
+2023-12-10 23:54:02,273 - engine_nus_first_stage.py[line:12] - INFO: TRAINING MODE
+2023-12-11 00:08:31,692 - engine_nus_first_stage.py[line:60] - INFO: ------------------------------------------------------------------
+2023-12-11 00:08:31,692 - engine_nus_first_stage.py[line:61] - INFO: FINETUNING Epoch: 7/20 	RankLoss: 0.895160	DistLoss: 0.095146	LearningRate 0.0007502798764911634
+2023-12-11 00:08:31,692 - engine_nus_first_stage.py[line:62] - INFO: ------------------------------------------------------------------
+2023-12-11 00:08:32,158 - engine_nus_first_stage.py[line:70] - INFO: =======================EVALUATION MODE=======================
+2023-12-11 00:14:43,688 - engine_nus_first_stage.py[line:105] - INFO: completed calculating predictions over all images
+2023-12-11 00:14:43,795 - engine_nus_first_stage.py[line:111] - INFO: ZSL AP: 0.4024
+2023-12-11 00:14:43,795 - engine_nus_first_stage.py[line:112] - INFO: k=3: 0.3066,0.2492,0.3984
+2023-12-11 00:14:43,795 - engine_nus_first_stage.py[line:113] - INFO: k=5: 0.2802,0.1927,0.5134
+2023-12-11 00:14:45,052 - engine_nus_first_stage.py[line:120] - INFO: GZSL AP:0.1975
+2023-12-11 00:14:45,058 - engine_nus_first_stage.py[line:121] - INFO: g_k=3:0.2240,0.3661,0.1614
+2023-12-11 00:14:45,058 - engine_nus_first_stage.py[line:122] - INFO: g_k=5:0.2578,0.3044,0.2236
+2023-12-11 00:14:45,184 - engine_nus_first_stage.py[line:12] - INFO: TRAINING MODE
+2023-12-11 00:29:14,371 - engine_nus_first_stage.py[line:60] - INFO: ------------------------------------------------------------------
+2023-12-11 00:29:14,371 - engine_nus_first_stage.py[line:61] - INFO: FINETUNING Epoch: 8/20 	RankLoss: 0.893114	DistLoss: 0.092021	LearningRate 0.0006713714797223709
+2023-12-11 00:29:14,371 - engine_nus_first_stage.py[line:62] - INFO: ------------------------------------------------------------------
+2023-12-11 00:29:14,867 - engine_nus_first_stage.py[line:70] - INFO: =======================EVALUATION MODE=======================
+2023-12-11 00:35:25,326 - engine_nus_first_stage.py[line:105] - INFO: completed calculating predictions over all images
+2023-12-11 00:35:25,430 - engine_nus_first_stage.py[line:111] - INFO: ZSL AP: 0.3999
+2023-12-11 00:35:25,430 - engine_nus_first_stage.py[line:112] - INFO: k=3: 0.3154,0.2564,0.4099
+2023-12-11 00:35:25,430 - engine_nus_first_stage.py[line:113] - INFO: k=5: 0.2847,0.1958,0.5217
+2023-12-11 00:35:26,658 - engine_nus_first_stage.py[line:120] - INFO: GZSL AP:0.2022
+2023-12-11 00:35:26,664 - engine_nus_first_stage.py[line:121] - INFO: g_k=3:0.2288,0.3739,0.1648
+2023-12-11 00:35:26,664 - engine_nus_first_stage.py[line:122] - INFO: g_k=5:0.2624,0.3098,0.2276
+2023-12-11 00:35:26,793 - engine_nus_first_stage.py[line:12] - INFO: TRAINING MODE
+2023-12-11 00:49:52,224 - engine_nus_first_stage.py[line:60] - INFO: ------------------------------------------------------------------
+2023-12-11 00:49:52,224 - engine_nus_first_stage.py[line:61] - INFO: FINETUNING Epoch: 9/20 	RankLoss: 0.890810	DistLoss: 0.089672	LearningRate 0.000587271239507355
+2023-12-11 00:49:52,224 - engine_nus_first_stage.py[line:62] - INFO: ------------------------------------------------------------------
+2023-12-11 00:49:52,682 - engine_nus_first_stage.py[line:70] - INFO: =======================EVALUATION MODE=======================
+2023-12-11 00:56:02,892 - engine_nus_first_stage.py[line:105] - INFO: completed calculating predictions over all images
+2023-12-11 00:56:03,021 - engine_nus_first_stage.py[line:111] - INFO: ZSL AP: 0.3993
+2023-12-11 00:56:03,021 - engine_nus_first_stage.py[line:112] - INFO: k=3: 0.3143,0.2554,0.4083
+2023-12-11 00:56:03,022 - engine_nus_first_stage.py[line:113] - INFO: k=5: 0.2875,0.1977,0.5268
+2023-12-11 00:56:04,582 - engine_nus_first_stage.py[line:120] - INFO: GZSL AP:0.2046
+2023-12-11 00:56:04,588 - engine_nus_first_stage.py[line:121] - INFO: g_k=3:0.2295,0.3751,0.1654
+2023-12-11 00:56:04,588 - engine_nus_first_stage.py[line:122] - INFO: g_k=5:0.2638,0.3114,0.2288
+2023-12-11 00:56:04,708 - engine_nus_first_stage.py[line:12] - INFO: TRAINING MODE
+2023-12-11 01:10:30,120 - engine_nus_first_stage.py[line:60] - INFO: ------------------------------------------------------------------
+2023-12-11 01:10:30,120 - engine_nus_first_stage.py[line:61] - INFO: FINETUNING Epoch: 10/20 	RankLoss: 0.888481	DistLoss: 0.087233	LearningRate 0.0005005344990882739
+2023-12-11 01:10:30,121 - engine_nus_first_stage.py[line:62] - INFO: ------------------------------------------------------------------
+2023-12-11 01:10:30,610 - engine_nus_first_stage.py[line:70] - INFO: =======================EVALUATION MODE=======================
+2023-12-11 01:16:42,447 - engine_nus_first_stage.py[line:105] - INFO: completed calculating predictions over all images
+2023-12-11 01:16:42,558 - engine_nus_first_stage.py[line:111] - INFO: ZSL AP: 0.4104
+2023-12-11 01:16:42,558 - engine_nus_first_stage.py[line:112] - INFO: k=3: 0.3122,0.2537,0.4057
+2023-12-11 01:16:42,558 - engine_nus_first_stage.py[line:113] - INFO: k=5: 0.2856,0.1964,0.5233
+2023-12-11 01:16:43,778 - engine_nus_first_stage.py[line:120] - INFO: GZSL AP:0.2068
+2023-12-11 01:16:43,784 - engine_nus_first_stage.py[line:121] - INFO: g_k=3:0.2339,0.3823,0.1685
+2023-12-11 01:16:43,784 - engine_nus_first_stage.py[line:122] - INFO: g_k=5:0.2675,0.3158,0.2321
+2023-12-11 01:16:43,904 - engine_nus_first_stage.py[line:12] - INFO: TRAINING MODE
