@@ -47,15 +47,6 @@ python3 train_nus_first_stage.py \
 
 The checkpoint of the first training stage is [here](https://drive.google.com/file/d/158ntqLvepVklwmY1PvlqIhguv7wN6SZI/view?usp=sharing).
 
-```bash
-python3 -m torch.distributed.launch --nproc_per_node=8 train_nus_second_stage.py \
-        --data-path path_to_dataset \
-        --clip-path path_to_clip_model \
-        --ckpt-path path_to_first_stage_ckpt
-```
-
-The checkpoint of the second training stage is [here](https://drive.google.com/file/d/1TBh1eWDLhHTjTfnRRfZULpe4DfPj7u9O/view?usp=sharing).
-
 ## Testing MKT on NUS-WIDE
 
 ```bash
